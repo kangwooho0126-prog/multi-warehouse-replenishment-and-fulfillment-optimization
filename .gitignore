@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.python-version
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Git metadata
+.git/
+
+# Large raw / intermediate data
+data/raw/
+data/processed/
+
+# Generated artifacts
+results/*.csv
+results/*.xlsx
+results/*.png
+
+# Model artifacts
+*.pkl
+*.joblib
+*.h5
+*.keras
