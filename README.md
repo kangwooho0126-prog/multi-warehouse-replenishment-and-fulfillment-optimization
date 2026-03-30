@@ -1,5 +1,12 @@
 # Multi-Warehouse Replenishment and Fulfillment Optimization
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Forecasting](https://img.shields.io/badge/Forecasting-Demand%20Prediction-orange)
+![Optimization](https://img.shields.io/badge/Optimization-Replenishment%20Planning-yellow)
+![Supply Chain](https://img.shields.io/badge/Supply%20Chain-Fulfillment-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-red)
+![Operations Research](https://img.shields.io/badge/OR-Decision%20Modeling-purple)
+
 ##  Project Overview
 
 This project develops an end-to-end supply chain optimization pipeline that integrates:
